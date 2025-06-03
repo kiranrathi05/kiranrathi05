@@ -62,12 +62,25 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiranrathi05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranrathi05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme:
 <img src="https://camo.githubusercontent.com/d800c1bf7f587e631b973c4b3839761034f27d91d28706ac05d911e319f96f5b/68747470733a2f2f692e70696e696d672e636f6d2f353634782f37392f65662f62392f37396566623961303631663264393036353335313361303762656437623535622e6a7067" alt="Random Developer Meme" style="height: 400px;"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kiranrathi05&limit=5&theme=dark&combine_all_yearly_contributions=false)
 
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — Cory House
+
+
+
+
+# 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiranrathi05)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kiranrathi05)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kiranrathi05@example.com)
+
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kiranrathi05&limit=5&theme=dark&combine_all_yearly_contributions=false)
+-->
 
 
 ---
