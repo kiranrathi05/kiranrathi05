@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![webdriver-manager](https://img.shields.io/badge/webdriver_manager-%23005050.svg?style=flat&logo=python&logoColor=white)
 ![serpapi](https://img.shields.io/badge/serpapi-%23404040.svg?style=flat&logo=google&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![urllib](https://img.shields.io/badge/urllib-%23000000.svg?style=flat&logo=python&logoColor=white)
+![urllib](https://img.shields.io/badge/urllib-%23000000.svg?style=flat&logo=python&logoColor=white) 
 
 
 # 📊 GitHub Stats:
