@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on MERN Chat App — diving deep into real-time messaging, user auth, and socket integration.<br>
+🔭 I’m currently working on AI Traveller App — diving deep into real-time messaging, user auth, and socket integration.<br>
 👯 I’m looking to collaborate on AI, machine learning, and accessible technology projects.<br>
 🤝 I’m looking for help with advanced natural language processing and voice integration.<br>
 🌱 I’m currently learning backend development and cloud deployment.<br>
